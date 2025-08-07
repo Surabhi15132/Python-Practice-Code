@@ -4,10 +4,17 @@ Welcome to my Python learning journey! Jupyter Notebooks cover my hands-on pract
 📘 Topics Covered
 
 ✅ Python Basics (variables, data types, input/output)
+
 🔁 Loops & Conditionals
+
 🧠 Functions & Scope
+
 🔤 String Manipulation
+
 📦 Data Structures (Lists, Tuples, Sets, Dictionaries)
+
 🔢 NumPy – Numerical Computing
+
 🧮 Pandas – Data Analysis & Manipulation
+
 📊 Matplotlib – Data Visualization
