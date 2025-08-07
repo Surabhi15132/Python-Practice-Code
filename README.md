@@ -2,6 +2,7 @@
 Welcome to my Python learning journey! Jupyter Notebooks cover my hands-on practice and mastery of Python, starting from absolute basics and progressing to powerful tools used in data science.
 
 📘 Topics Covered
+
 ✅ Python Basics (variables, data types, input/output)
 🔁 Loops & Conditionals
 🧠 Functions & Scope
